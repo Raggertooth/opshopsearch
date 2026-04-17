@@ -1,0 +1,15 @@
+# Force Nixpacks to treat this as a Node project, ignoring tools/build-suburbs.py
+# (which is a build-time helper, not a Python service).
+providers = ["node"]
+
+[phases.setup]
+nixPkgs = ["nodejs_20"]
+
+[phases.install]
+cmds = ["npm install --omit=dev || true"]
+
+[phases.build]
+cmds = ["echo 'No build step required for static site'"]
+
+[start]
+cmd = "npx serve . -l $PORT"
