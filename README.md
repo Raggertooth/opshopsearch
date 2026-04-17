@@ -134,6 +134,36 @@ See PRODUCT-BRIEF.md §5 for the full multi-phase plan. Headline next steps afte
 5. NSW expansion
 6. National coverage + monetisation
 
+## Optional integrations (config-gated)
+
+All of these are inert by default. Uncomment the relevant `<meta>` tag in
+`index.html` and paste your key/DSN to activate.
+
+### Google Street View hero photos
+1. Sign up at [Google Cloud Console](https://console.cloud.google.com)
+2. Create a project, enable **"Street View Static API"**
+3. Create an API key (Credentials → Create credentials → API key)
+4. Restrict the key:
+   - **Application restrictions:** HTTP referrers → add `*.opshopsearch.com/*` and `localhost:*/*`
+   - **API restrictions:** restrict to **Street View Static API** only
+5. Uncomment in `index.html` head:
+   `<meta name="streetview-key" content="YOUR_KEY">`
+6. Free quota: **10,000 panorama loads / month**. We hit the metadata endpoint first to avoid burning quota when no photo exists.
+
+### Plausible analytics
+Sign up at [plausible.io](https://plausible.io), then uncomment:
+`<meta name="plausible-domain" content="beta.opshopsearch.com">`
+
+### Sentry error tracking
+Create a Sentry project, then uncomment:
+`<meta name="sentry-dsn" content="https://YOUR_KEY@sentry.io/YOUR_PROJECT">`
+
+### Newsletter (Buttondown / Formspree)
+Edit `js/newsletter.js`, set `NEWSLETTER_ENDPOINT` to your form URL.
+
+### Submit-a-shop form (Formspree)
+Edit `submit/index.html`, replace `REPLACE_ME` in the form `action` with your Formspree form ID.
+
 ## Project owner
 
 Southern Claw Labs. Issues / corrections: hello@opshopsearch.com

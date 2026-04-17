@@ -7,11 +7,8 @@
     Salvos: '#E60000',
     Lifeline: '#00AA44'
   };
-  // Default pin colour (grey) for map legend consistency
-  var DEFAULT_COLOUR = '#666666';
-  // Hero background colour for "Other" charities — warmer than pin grey
-  // so the detail panel doesn't look drab for non-branded shops.
-  var OTHER_HERO_COLOUR = '#8a4ec4';  // soft purple
+  // Single "Other" colour used for pins, chip, hero, legend.
+  var DEFAULT_COLOUR = '#8a4ec4';  // soft purple
   var KNOWN_CHARITIES = ['Vinnies', 'Salvos', 'Lifeline'];
 
   var map = window.appMap;
@@ -29,12 +26,8 @@
   function colourFor(charity) {
     return CHARITY_COLOURS[charity] || DEFAULT_COLOUR;
   }
-
-  // Used by the detail-panel hero so non-branded charities get a warmer
-  // background than the muted grey pin colour.
-  function heroColourFor(charity) {
-    return CHARITY_COLOURS[charity] || OTHER_HERO_COLOUR;
-  }
+  // Hero uses the same colour now that "Other" is a proper brand-purple.
+  var heroColourFor = colourFor;
 
   function charityKey(charity) {
     return KNOWN_CHARITIES.indexOf(charity) === -1 ? 'Other' : charity;
