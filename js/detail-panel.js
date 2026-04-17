@@ -176,8 +176,10 @@
     var initialsEl = document.getElementById('panel-initials');
     if (!photo || !initialsEl) return;
     var hero = document.getElementById('panel-hero');
-    var colour = (window.OpShopData && window.OpShopData.colourFor)
-      ? window.OpShopData.colourFor(shop.charity) : '#666';
+    var colour = (window.OpShopData && window.OpShopData.heroColourFor)
+      ? window.OpShopData.heroColourFor(shop.charity)
+      : (window.OpShopData && window.OpShopData.colourFor
+          ? window.OpShopData.colourFor(shop.charity) : '#666');
     if (shop.photo) {
       photo.src = shop.photo;
       photo.alt = shop.name;

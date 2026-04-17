@@ -1,5 +1,5 @@
 // sw.js — App-shell + data caching for offline-capable PWA
-const VERSION = 'v17';
+const VERSION = 'v18';
 const SHELL_CACHE = 'opshop-shell-' + VERSION;
 const DATA_CACHE = 'opshop-data-' + VERSION;
 const TILE_CACHE = 'opshop-tiles-' + VERSION;
