@@ -4,11 +4,15 @@
 
   var map;
   try {
+    var goldCoastBounds = L.latLngBounds([-28.25, 152.90], [-27.70, 153.60]);
+
     map = L.map('map', {
       center: [-27.9833, 153.4000],
       zoom: 12,
-      minZoom: 10,
+      minZoom: 11,
       maxZoom: 19,
+      maxBounds: goldCoastBounds,
+      maxBoundsViscosity: 1.0,
       zoomControl: true
     });
 
