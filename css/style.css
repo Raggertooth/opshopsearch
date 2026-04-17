@@ -692,6 +692,9 @@ html, body {
   background-color: #0066CC;
   background-image: linear-gradient(135deg, #0066CC 0%, #003366 100%);
 }
+.panel-initials[hidden] {
+  display: none !important;
+}
 .panel-initials:empty::before {
   content: '?';
   opacity: 0.7;
