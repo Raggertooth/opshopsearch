@@ -187,8 +187,10 @@
       photo.hidden = true;
       photo.removeAttribute('src');
       initialsEl.hidden = false;
-      initialsEl.textContent = initials(shop.name);
-      initialsEl.style.background =
+      initialsEl.textContent = initials(shop.name) || '?';
+      // Use explicit properties (more robust than shorthand for inline gradients)
+      initialsEl.style.backgroundColor = colour;
+      initialsEl.style.backgroundImage =
         'linear-gradient(135deg, ' + colour + ' 0%, ' +
         shadeColor(colour, -20) + ' 100%)';
     }

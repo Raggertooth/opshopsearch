@@ -677,9 +677,11 @@ html, body {
   display: block;
 }
 .panel-initials {
+  position: absolute;
+  inset: 0;
   width: 100%;
   height: 100%;
-  display: flex;
+  display: flex !important;
   align-items: center;
   justify-content: center;
   font-size: 2.6rem;
@@ -687,7 +689,12 @@ html, body {
   letter-spacing: 2px;
   color: #fff;
   text-shadow: 0 2px 6px rgba(0,0,0,0.25);
-  background: linear-gradient(135deg, #0066CC 0%, #003366 100%);
+  background-color: #0066CC;
+  background-image: linear-gradient(135deg, #0066CC 0%, #003366 100%);
+}
+.panel-initials:empty::before {
+  content: '?';
+  opacity: 0.7;
 }
 
 #panel-close {
