@@ -152,7 +152,7 @@ All of these are inert by default. Uncomment the relevant `<meta>` tag in
 
 ### Plausible analytics
 Sign up at [plausible.io](https://plausible.io), then uncomment:
-`<meta name="plausible-domain" content="beta.opshopsearch.com">`
+`<meta name="plausible-domain" content="map.opshopsearch.com">`
 
 ### Sentry error tracking
 Create a Sentry project, then uncomment:

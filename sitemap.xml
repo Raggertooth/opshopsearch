@@ -1,475 +1,475 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://beta.opshopsearch.com/</loc>
+    <loc>https://map.opshopsearch.com/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/</loc>
+    <loc>https://map.opshopsearch.com/suburb/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/charity/</loc>
+    <loc>https://map.opshopsearch.com/charity/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/about/</loc>
+    <loc>https://map.opshopsearch.com/about/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/submit/</loc>
+    <loc>https://map.opshopsearch.com/submit/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/embed/</loc>
+    <loc>https://map.opshopsearch.com/embed/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/arundel/</loc>
+    <loc>https://map.opshopsearch.com/suburb/arundel/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/ashmore/</loc>
+    <loc>https://map.opshopsearch.com/suburb/ashmore/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/beenleigh/</loc>
+    <loc>https://map.opshopsearch.com/suburb/beenleigh/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/bundall/</loc>
+    <loc>https://map.opshopsearch.com/suburb/bundall/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/burleigh-heads/</loc>
+    <loc>https://map.opshopsearch.com/suburb/burleigh-heads/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/carrara/</loc>
+    <loc>https://map.opshopsearch.com/suburb/carrara/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/coolangatta/</loc>
+    <loc>https://map.opshopsearch.com/suburb/coolangatta/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/coomera/</loc>
+    <loc>https://map.opshopsearch.com/suburb/coomera/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/helensvale/</loc>
+    <loc>https://map.opshopsearch.com/suburb/helensvale/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/hope-island/</loc>
+    <loc>https://map.opshopsearch.com/suburb/hope-island/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/labrador/</loc>
+    <loc>https://map.opshopsearch.com/suburb/labrador/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/mermaid-beach/</loc>
+    <loc>https://map.opshopsearch.com/suburb/mermaid-beach/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/mermaid-waters/</loc>
+    <loc>https://map.opshopsearch.com/suburb/mermaid-waters/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/miami/</loc>
+    <loc>https://map.opshopsearch.com/suburb/miami/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/mudgeeraba/</loc>
+    <loc>https://map.opshopsearch.com/suburb/mudgeeraba/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/nerang/</loc>
+    <loc>https://map.opshopsearch.com/suburb/nerang/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/oxenford/</loc>
+    <loc>https://map.opshopsearch.com/suburb/oxenford/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/pacific-pines/</loc>
+    <loc>https://map.opshopsearch.com/suburb/pacific-pines/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/palm-beach/</loc>
+    <loc>https://map.opshopsearch.com/suburb/palm-beach/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/robina/</loc>
+    <loc>https://map.opshopsearch.com/suburb/robina/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/southport/</loc>
+    <loc>https://map.opshopsearch.com/suburb/southport/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/upper-coomera/</loc>
+    <loc>https://map.opshopsearch.com/suburb/upper-coomera/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/suburb/varsity-lakes/</loc>
+    <loc>https://map.opshopsearch.com/suburb/varsity-lakes/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/charity/independent/</loc>
+    <loc>https://map.opshopsearch.com/charity/independent/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/charity/lifeline/</loc>
+    <loc>https://map.opshopsearch.com/charity/lifeline/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/charity/rspca/</loc>
+    <loc>https://map.opshopsearch.com/charity/rspca/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/charity/red-cross/</loc>
+    <loc>https://map.opshopsearch.com/charity/red-cross/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/charity/salvos/</loc>
+    <loc>https://map.opshopsearch.com/charity/salvos/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/charity/samaritans-purse/</loc>
+    <loc>https://map.opshopsearch.com/charity/samaritans-purse/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/charity/save-the-children/</loc>
+    <loc>https://map.opshopsearch.com/charity/save-the-children/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/charity/the-smith-family/</loc>
+    <loc>https://map.opshopsearch.com/charity/the-smith-family/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/charity/vinnies/</loc>
+    <loc>https://map.opshopsearch.com/charity/vinnies/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/giant-jungle-op-shop-miami/</loc>
+    <loc>https://map.opshopsearch.com/shop/giant-jungle-op-shop-miami/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/lifeline-shop-ashmore/</loc>
+    <loc>https://map.opshopsearch.com/shop/lifeline-shop-ashmore/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/lifeline-shop-burleigh-heads/</loc>
+    <loc>https://map.opshopsearch.com/shop/lifeline-shop-burleigh-heads/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/lifeline-shop-coomera/</loc>
+    <loc>https://map.opshopsearch.com/shop/lifeline-shop-coomera/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/lifeline-shop-helensvale/</loc>
+    <loc>https://map.opshopsearch.com/shop/lifeline-shop-helensvale/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/lifeline-shop-mudgeeraba/</loc>
+    <loc>https://map.opshopsearch.com/shop/lifeline-shop-mudgeeraba/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/lifeline-shop-pacific-pines/</loc>
+    <loc>https://map.opshopsearch.com/shop/lifeline-shop-pacific-pines/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/lifeline-shop-robina/</loc>
+    <loc>https://map.opshopsearch.com/shop/lifeline-shop-robina/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/lifeline-shop-southport/</loc>
+    <loc>https://map.opshopsearch.com/shop/lifeline-shop-southport/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/rspca-op-shop-burleigh-heads/</loc>
+    <loc>https://map.opshopsearch.com/shop/rspca-op-shop-burleigh-heads/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/rspca-op-shop-nerang/</loc>
+    <loc>https://map.opshopsearch.com/shop/rspca-op-shop-nerang/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/rspca-op-shop-southport/</loc>
+    <loc>https://map.opshopsearch.com/shop/rspca-op-shop-southport/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/red-cross-shop-bundall/</loc>
+    <loc>https://map.opshopsearch.com/shop/red-cross-shop-bundall/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/red-cross-shop-helensvale/</loc>
+    <loc>https://map.opshopsearch.com/shop/red-cross-shop-helensvale/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/red-cross-shop-palm-beach/</loc>
+    <loc>https://map.opshopsearch.com/shop/red-cross-shop-palm-beach/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/red-cross-shop-robina/</loc>
+    <loc>https://map.opshopsearch.com/shop/red-cross-shop-robina/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/red-cross-shop-southport/</loc>
+    <loc>https://map.opshopsearch.com/shop/red-cross-shop-southport/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/salvation-army-upper-coomera/</loc>
+    <loc>https://map.opshopsearch.com/shop/salvation-army-upper-coomera/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/salvation-army-family-store-bundall/</loc>
+    <loc>https://map.opshopsearch.com/shop/salvation-army-family-store-bundall/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/salvation-army-family-store-burleigh-heads/</loc>
+    <loc>https://map.opshopsearch.com/shop/salvation-army-family-store-burleigh-heads/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/salvation-army-family-store-coolangatta/</loc>
+    <loc>https://map.opshopsearch.com/shop/salvation-army-family-store-coolangatta/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/salvation-army-family-store-labrador/</loc>
+    <loc>https://map.opshopsearch.com/shop/salvation-army-family-store-labrador/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/salvation-army-family-store-mermaid-waters/</loc>
+    <loc>https://map.opshopsearch.com/shop/salvation-army-family-store-mermaid-waters/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/salvation-army-family-store-oxenford/</loc>
+    <loc>https://map.opshopsearch.com/shop/salvation-army-family-store-oxenford/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/salvation-army-family-store-southport/</loc>
+    <loc>https://map.opshopsearch.com/shop/salvation-army-family-store-southport/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/samaritans-purse-op-shop-southport/</loc>
+    <loc>https://map.opshopsearch.com/shop/samaritans-purse-op-shop-southport/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/save-the-children-op-shop-burleigh-heads/</loc>
+    <loc>https://map.opshopsearch.com/shop/save-the-children-op-shop-burleigh-heads/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/save-the-children-op-shop-coolangatta/</loc>
+    <loc>https://map.opshopsearch.com/shop/save-the-children-op-shop-coolangatta/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/save-the-children-op-shop-mermaid-beach/</loc>
+    <loc>https://map.opshopsearch.com/shop/save-the-children-op-shop-mermaid-beach/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/st-vincent-de-paul-beenleigh/</loc>
+    <loc>https://map.opshopsearch.com/shop/st-vincent-de-paul-beenleigh/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/st-vincent-de-paul-hope-island/</loc>
+    <loc>https://map.opshopsearch.com/shop/st-vincent-de-paul-hope-island/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/st-vincent-de-paul-society-ashmore/</loc>
+    <loc>https://map.opshopsearch.com/shop/st-vincent-de-paul-society-ashmore/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/st-vincent-de-paul-society-burleigh-heads/</loc>
+    <loc>https://map.opshopsearch.com/shop/st-vincent-de-paul-society-burleigh-heads/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/st-vincent-de-paul-society-labrador/</loc>
+    <loc>https://map.opshopsearch.com/shop/st-vincent-de-paul-society-labrador/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/st-vincent-de-paul-society-nerang/</loc>
+    <loc>https://map.opshopsearch.com/shop/st-vincent-de-paul-society-nerang/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/st-vincent-de-paul-society-palm-beach/</loc>
+    <loc>https://map.opshopsearch.com/shop/st-vincent-de-paul-society-palm-beach/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/st-vincent-de-paul-society-southport/</loc>
+    <loc>https://map.opshopsearch.com/shop/st-vincent-de-paul-society-southport/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/the-collective-store-burleigh-heads/</loc>
+    <loc>https://map.opshopsearch.com/shop/the-collective-store-burleigh-heads/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/the-smith-family-gold-coast/</loc>
+    <loc>https://map.opshopsearch.com/shop/the-smith-family-gold-coast/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/vinnies-varsity-lakes/</loc>
+    <loc>https://map.opshopsearch.com/shop/vinnies-varsity-lakes/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beta.opshopsearch.com/shop/vinnies-super-store-carrara/</loc>
+    <loc>https://map.opshopsearch.com/shop/vinnies-super-store-carrara/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
