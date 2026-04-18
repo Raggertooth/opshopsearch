@@ -1993,3 +1993,19 @@ body.filter-sheet-lock { overflow: hidden; }
     opacity: 1;
   }
 }
+
+/* CRITICAL: enforce the [hidden] attribute on filter-sheet + overlay.
+   My .filter-sheet { display: flex } rule above overrides the UA
+   stylesheet's [hidden] { display: none }, which leaves the sheet
+   rendered even when hidden. Even with transform:translateY(100%)
+   keeping it visually offscreen, at z-index 9999 it can intercept
+   pointer events on iOS Safari / Leaflet — blocking marker clicks. */
+.filter-sheet[hidden],
+.filter-sheet-overlay[hidden] {
+  display: none !important;
+}
+
+/* Also: keep #map-container height calc(...) in sync with the new filter-bar.
+   Old filter-strip was 44px; new filter-bar with 44pt tap targets = 60px. */
+:root { --chip-height: 60px; }
+#filter-bar { height: var(--chip-height); box-sizing: border-box; }
