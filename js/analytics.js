@@ -1,6 +1,6 @@
 // analytics.js — Conditional Plausible + Sentry loaders.
 // Both are inert until configured via <meta> tags in the HTML head:
-//   <meta name="plausible-domain" content="beta.opshopsearch.com">
+//   <meta name="plausible-domain" content="map.opshopsearch.com">
 //   <meta name="sentry-dsn" content="https://xxx@sentry.io/yyy">
 //
 // In embed mode (?embed=1) we never load analytics — visitors of host sites
@@ -51,7 +51,7 @@
         Sentry.init({
           dsn: sentryDsn,
           tracesSampleRate: 0.1,
-          environment: location.hostname === 'beta.opshopsearch.com' ? 'production' : 'preview',
+          environment: location.hostname === 'map.opshopsearch.com' ? 'production' : 'preview',
           release: 'opshop-finder@' + (meta('app-version') || 'unknown')
         });
       }

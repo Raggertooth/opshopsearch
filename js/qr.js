@@ -2,7 +2,7 @@
 (function () {
   'use strict';
 
-  var SITE_BASE = 'https://beta.opshopsearch.com';
+  var SITE_BASE = 'https://map.opshopsearch.com';
   var QR_API = 'https://api.qrserver.com/v1/create-qr-code/';
 
   function ready(fn) {

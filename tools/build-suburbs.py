@@ -28,7 +28,7 @@ OUT_SUBURB = ROOT / 'suburb'
 OUT_CHARITY = ROOT / 'charity'
 OUT_SHOP = ROOT / 'shop'
 SITEMAP = ROOT / 'sitemap.xml'
-SITE_URL = 'https://beta.opshopsearch.com'
+SITE_URL = 'https://map.opshopsearch.com'
 
 CHARITY_COLOURS = {
     'Vinnies': '#0066CC',

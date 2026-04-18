@@ -3,4 +3,4 @@ Allow: /
 Disallow: /sw.js
 Disallow: /icons/
 
-Sitemap: https://beta.opshopsearch.com/sitemap.xml
+Sitemap: https://map.opshopsearch.com/sitemap.xml
