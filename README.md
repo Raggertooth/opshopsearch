@@ -167,3 +167,5 @@ Edit `submit/index.html`, replace `REPLACE_ME` in the form `action` with your Fo
 ## Project owner
 
 Southern Claw Labs. Issues / corrections: hello@opshopsearch.com
+
+<!-- rename-verify: opshopsearch 2026-04-18T01:56:13Z -->
